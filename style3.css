@@ -1,0 +1,58 @@
+.arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0px;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .fa-facebook {
+    background:rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    border-radius: 4px;
+   padding: 3px;
+  }
+  .fa-google {
+    background: rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size:small;
+  }
+  .fa-linkedin {
+    background: rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size:small;
+  }
+  .fa-twitter {
+    background: rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size:small;
+  }
+  .fa-instagram {
+    background: rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 4px;
+        font-size:small;
+    }
+  .fa-youtube {
+    background: rgb(245, 244, 244);
+    color:rgb(49, 49, 121);
+    padding: 3px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size:small;
+  }
